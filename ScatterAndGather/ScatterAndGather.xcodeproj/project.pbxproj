@@ -13,6 +13,7 @@
 		557D59DB23FC844B003BBAAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 557D59D923FC844B003BBAAF /* Main.storyboard */; };
 		557D59DD23FC844F003BBAAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 557D59DC23FC844F003BBAAF /* Assets.xcassets */; };
 		557D59E023FC844F003BBAAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 557D59DE23FC844F003BBAAF /* LaunchScreen.storyboard */; };
+		557D59E823FC8B34003BBAAF /* lambda_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 557D59E723FC8B33003BBAAF /* lambda_logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		557D59DC23FC844F003BBAAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		557D59DF23FC844F003BBAAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		557D59E123FC844F003BBAAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		557D59E723FC8B33003BBAAF /* lambda_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lambda_logo.png; path = "../../ios-afternoon-project-scatter-and-gather/lambda_logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				557D59D923FC844B003BBAAF /* Main.storyboard */,
 				557D59DC23FC844F003BBAAF /* Assets.xcassets */,
 				557D59DE23FC844F003BBAAF /* LaunchScreen.storyboard */,
+				557D59E723FC8B33003BBAAF /* lambda_logo.png */,
 				557D59E123FC844F003BBAAF /* Info.plist */,
 			);
 			path = ScatterAndGather;
@@ -128,6 +131,7 @@
 				557D59E023FC844F003BBAAF /* LaunchScreen.storyboard in Resources */,
 				557D59DD23FC844F003BBAAF /* Assets.xcassets in Resources */,
 				557D59DB23FC844B003BBAAF /* Main.storyboard in Resources */,
+				557D59E823FC8B34003BBAAF /* lambda_logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

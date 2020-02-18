@@ -15,6 +15,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+//MARK: Actions
+    
+    @IBAction func toggleButtonPressed(_ sender: UIBarButtonItem) {
+    }
+    
+    
+    
 }
 
